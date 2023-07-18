@@ -1,5 +1,5 @@
 # mini_app_movies
-npm install in server and client directories
+    npm install in server and client directories
 
 # add apikey
 and your api key to the client/src/App.js
